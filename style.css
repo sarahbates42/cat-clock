@@ -1,0 +1,9 @@
+body {
+	background-color: #FFA8CA;
+	text-align: center;
+}
+
+#body {
+	position: relative;
+	top: 100px;
+}
